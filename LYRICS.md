@@ -1,3 +1,4 @@
+[color=#00A2E8]
 Chœur<br>
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
@@ -6,8 +7,10 @@ L'École du micro d'argent<br>
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
+[/color]
 <br>
 <br>
+[color=#E84F13]
 Shurik'n <br>
 Assis en tailleur, voilà des heures que je médite<br>
 Sur ma montagne et je n'arrive pas à faire le vide<br>
@@ -31,8 +34,10 @@ Je sens l'esprit du félin m'envahir<br>
 À ce stade seul le sang me procure du plaisir<br>
 Mes griffes gravent les couleurs de l'Empire<br>
 Plus grand que celui d'Alexandre dont je suis le défenseur<br>
+[/color]
 <br>
 <br>
+[color=#E834A1]
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
 Je représente<br>
@@ -44,8 +49,10 @@ L'École du micro d'argent<br>
 Je représente<br>
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
+[/color]
 <br>
 <br>
+[color=#3BE831]
 Akhenaton<br>
 Mon sabre scintille, je médite accroupi sous les branches d'un saule<br>
 Pleure, je défends l'honneur de mon école, fils<br>
@@ -68,8 +75,10 @@ Ce coup vient d'un expert à la guerre<br>
 Vaillant praticien des arts martiens<br>
 Délégué pour mettre un terme à ces horreurs<br>
 Tel est mon labeur, tu sais de qui je défends l'honneur<br>
+[/color]
 <br>
 <br>
+[color=#E8D00B]
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
 Je représente<br>
@@ -81,3 +90,4 @@ L'École du micro d'argent<br>
 Je représente<br>
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
+[/color]
