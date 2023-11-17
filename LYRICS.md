@@ -43,3 +43,26 @@ L'École du micro d'argent<br>
 Je représente<br>
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
+
+Akhenaton<br>
+Mon sabre scintille, je médite accroupi sous les branches d'un saule<br>
+Pleure, je défends l'honneur de mon école, fils<br>
+Le troisième œil scrute le terrain, la tactique<br>
+À pratiquer, pour balayer l'ennemi, statique<br>
+Physiquement, les déplacements furtifs<br>
+De l'essence de mon esprit élabore les bases de ma stratégie<br>
+Donc je me dresse dans des cliquetis, bardé d'armes<br>
+J'ai une armée entière sous le charme<br>
+Prête à mourir, à la gloire de mon étendard<br>
+J'ai rassemblé la clique des valeureux guerriers barbares<br>
+Dare-dare j'ai envoyé paître les lettres<br>
+Pourchassé les traîtres, selon l'enseignement de mes maîtres<br>
+Sans relâche, je crache des cendres<br>
+Et poursuivrai les massacres jusqu'à ce que le nom d'AKH soit légende<br>
+Car le soldat, guerrier alpha est adroit<br>
+Et lance l'assaut là, sur l'école du micro en bois<br>
+La bataille a débuté, tiens<br>
+Ce coup vient d'un expert à la guerre<br>
+Vaillant praticien des arts martiens<br>
+Délégué pour mettre un terme à ces horreurs<br>
+Tel est mon labeur, tu sais de qui je défends l'honneur<br>
