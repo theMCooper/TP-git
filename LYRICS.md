@@ -1,8 +1,8 @@
-Chœur
-L'École du micro d'argent
-L'École du micro d'argent
-L'École du micro d'argent
-L'École du micro d'argent
-L'École du micro d'argent
-L'École du micro d'argent
-L'École du micro d'argent
+Chœur<br>
+L'École du micro d'argent<br>
+L'École du micro d'argent<br>
+L'École du micro d'argent<br>
+L'École du micro d'argent<br>
+L'École du micro d'argent<br>
+L'École du micro d'argent<br>
+L'École du micro d'argent<br>
