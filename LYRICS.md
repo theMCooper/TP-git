@@ -1,4 +1,4 @@
-[color=#00A2E8]
+<span style="color: #26B260">
 Chœur<br>
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
@@ -7,7 +7,7 @@ L'École du micro d'argent<br>
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
 L'École du micro d'argent<br>
-[/color]
+</span>
 <br>
 <br>
 [color=#E84F13]
